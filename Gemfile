@@ -46,3 +46,4 @@ group :development do
   gem 'spring'
 end
 #gem 'pg'
+gem install passenger --no-rdoc --no-ri
